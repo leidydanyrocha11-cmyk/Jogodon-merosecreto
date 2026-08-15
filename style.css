@@ -15,7 +15,7 @@ body {
 
 
 body::before {
-    background-image: url("img/florespng.png");
+    background-image: url("florespng.png");
     background-repeat: no-repeat;
     background-position: right center;
     background-size: auto 95%;
@@ -36,7 +36,7 @@ body::before {
     border-radius: 24px;
     border: 1px solid #d675c9;
     box-shadow: 4px 4px 20px 0px rgba(235, 152, 217, 0.15);
-    background-image: url("img/funo.jpg");
+    background-image: url("funo.jpg");
     background-size: 100% 100%;
     position: relative;
 }
